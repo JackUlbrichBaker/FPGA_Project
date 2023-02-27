@@ -26,7 +26,7 @@ Memory: DDR3L
 IO:
 - Array of 8 LEDS that can be used as generic LEDs or to represent an 8 bit bus/memory
 - Array of 8 switches for the same reason
-- 
+
 Connectivity:
 - USB-C
 - JTAG
