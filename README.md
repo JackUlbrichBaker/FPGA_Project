@@ -10,20 +10,20 @@ https://orangecrab-fpga.github.io/orangecrab-hardware/
 FPGA: ECP5-12F FPGA
 I selected this family of FPGAs for their low cost primarily as well as their upgradability as I can prototype with the cheaper 12k LUT version and when it is finalised I can develop with up to 85k LUTs (way overkill for my application anyway).  Specs shown below;
 
-12 K - Look Up Tables
-1008 Kb - Embedded Block RAM
-194 Kb - Distributed RAM
-28 - 18x18 Multipliers
-PLLs: 2
-Internal oscillator
-Flexible I/O for DDR3 Memory Support
+- 12 K - Look Up Tables
+- 1008 Kb - Embedded Block RAM
+- 194 Kb - Distributed RAM
+- 28 - 18x18 Multipliers
+- PLLs: 2
+- Internal oscillator
+- Flexible I/O for DDR3 Memory Support
 
 Memory: DDR3L 
-128 Mbytes (1Gbit)
-64M x16
-1.35V low voltage operation
+- 128 Mbytes (1Gbit)
+- 64M x16
+- 1.35V low voltage operation
 
 Connectivity:
-USB-C
-JTAG
-UART
+- USB-C
+- JTAG
+- UART
