@@ -9,6 +9,7 @@ https://orangecrab-fpga.github.io/orangecrab-hardware/
 # Component Selection
 FPGA: ECP5-12F FPGA
 I selected this family of FPGAs for their low cost primarily as well as their upgradability as I can prototype with the cheaper 12k LUT version and when it is finalised I can develop with up to 85k LUTs (way overkill for my application anyway).  Specs shown below;
+
 12 K - Look Up Tables
 1008 Kb - Embedded Block RAM
 194 Kb - Distributed RAM
