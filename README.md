@@ -49,6 +49,12 @@ I selected this family of FPGAs for their low cost primarily as well as their up
 - JTAG
 - UART
 
+# Software:
+
+To include HDMI I will utilize this repo:
+https://github.com/hdl-util/hdmi/
+As a DFU Bootloader I will be using this:
+https://github.com/no2fpga/no2bootloader
 
 # TODO:
 - [ ] Select Components
