@@ -18,33 +18,42 @@ I selected this family of FPGAs for their low cost primarily as well as their up
 - Internal oscillator
 - Flexible I/O for DDR3 Memory Support
 
-Memory: DDR3L 
+### Memory: DDR3L 
 - 128 Mbytes (1Gbit)
 - 64M x16
 - 1.35V low voltage operation
 
-Flash:
+### Flash:
 - I selected to use the Winbond W25Q128JVSIM
 - enable config loading from flash to avoid reflashing on every power up 
 - SPI enabled
 
-USB: 
+### USB: 
 - FT2232H interface (USB C plug)
 
-Power:
+### Power:
 - The board needs: 1.1V, 2.5V, 3.3V and can supply 5V
 - The board will be able to be powered by USB or barrel Jack
 - to supply this I will use the following:
-- - 1.1V: 500mA max -- Buck Converter
-- - 2.5V: 200mA max -- Linear Regulator
-- - 3.3V: 700mA - designed for 1A -- Switching step up
-- - 5.0V: 500mA - designed for 1A -- Switching step up
+  - 1.1V: 500mA max -- Buck Converter
+  - 2.5V: 200mA max -- Linear Regulator
+  - 3.3V: 700mA - designed for 1A -- Switching step up
+  - 5.0V: 500mA - designed for 1A -- Switching step up
 
-IO:
+### IO:
 - Array of 8 LEDS that can be used as generic LEDs or to represent an 8 bit bus/memory
 - Array of 8 switches for the same reason
 
-Connectivity:
+### Connectivity:
 - USB-C
 - JTAG
 - UART
+
+
+# TODO:
+- [ ] Select Components
+- [ ] Create Schematic
+- [ ] Route PCB
+- [ ] Design review
+- [ ] Production
+- [ ] Testing
