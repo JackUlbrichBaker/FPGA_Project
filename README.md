@@ -3,8 +3,8 @@ This is my first FPGA project, with the aim of emulating a vintage cpu cores.
 
 # Inspiration
 I drew inspiration from many different Boards, but primarily from the Hackaday SuperCon "badge" and the Orange Crab Dev board:
-https://hackaday.com/2019/11/04/gigantic-fpga-in-a-game-boy-form-factor-2019-supercon-badge-is-a-hardware-siren-song/
-https://orangecrab-fpga.github.io/orangecrab-hardware/
+ - https://hackaday.com/2019/11/04/gigantic-fpga-in-a-game-boy-form-factor-2019-supercon-badge-is-a-hardware-siren-song/
+ - https://orangecrab-fpga.github.io/orangecrab-hardware/
 
 # Component Selection
 FPGA: ECP5-12F FPGA
@@ -52,9 +52,9 @@ I selected this family of FPGAs for their low cost primarily as well as their up
 # Software:
 
 To include HDMI I will utilize this repo:
-https://github.com/hdl-util/hdmi/
+- https://github.com/hdl-util/hdmi/
 As a DFU Bootloader I will be using this:
-https://github.com/no2fpga/no2bootloader
+- https://github.com/no2fpga/no2bootloader
 
 # TODO:
 - [ ] Select Components
