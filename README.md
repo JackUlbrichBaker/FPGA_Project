@@ -19,6 +19,7 @@ I selected this family of FPGAs for their low cost primarily as well as their up
 - Flexible I/O for DDR3 Memory Support
 
 ### Memory: DDR3L 
+- MT41K64M16TW-107 DDR3 RAM
 - 128 Mbytes (1Gbit)
 - 64M x16
 - 1.35V low voltage operation
