@@ -66,8 +66,9 @@ As a DFU Bootloader I will be using this:
 
 # TODO:
 - [x] Select Components
-- [ ] Create Schematic
-- [ ] Route PCB
-- [ ] Design review
+- [x] Create Schematic
+- [x] Route PCB
+- [x] Design review
+- [ ] Order PCB
 - [ ] Production
 - [ ] Testing
