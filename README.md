@@ -1,5 +1,5 @@
 # FPGA_Project
-This is my first FPGA project, with the aim of emulating a vintage cpu cores.
+This is my first FPGA hardware project, with the aim of emulating a vintage cpu cores.
 
 # Inspiration
 I drew inspiration from many different Boards, but primarily from the Hackaday SuperCon "badge" and the Orange Crab Dev board:
